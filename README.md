@@ -253,3 +253,41 @@ I'm always excited to learn new technologies, experiment with innovative ideas, 
 </a>
 
 </div>
+<!-- Connect With Me -->
+<div align="center">
+
+## CONNECT WITH ME
+
+<br/>
+
+<p>
+  <a href="https://github.com/Kuvendrahansithadevi" title="GitHub">
+    <img src="https://cdn.simpleicons.org/github/FFFFFF" width="32" height="32" alt="GitHub" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/hansitha-devi-kuvendra-b1043a323/" title="LinkedIn">
+    <img src="https://img.icons8.com/ios-filled/50/FFFFFF/linkedin.png" width="32" height="32" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://leetcode.com/u/Hansitha_07/" title="LeetCode">
+    <img src="https://cdn.simpleicons.org/leetcode/FFFFFF" width="32" height="32" alt="LeetCode" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.geeksforgeeks.org/profile/hansitha07" title="GeeksforGeeks">
+    <img src="https://cdn.simpleicons.org/geeksforgeeks/FFFFFF" width="32" height="32" alt="GeeksforGeeks" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.codechef.com/users/hansitha_07" title="CodeChef">
+    <img src="https://cdn.simpleicons.org/codechef/FFFFFF" width="32" height="32" alt="CodeChef" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.hackerrank.com/profile/Hansitha_07" title="HackerRank">
+    <img src="https://cdn.simpleicons.org/hackerrank/FFFFFF" width="32" height="32" alt="HackerRank" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:24b11ds109@adityauniversity.in" title="Email">
+    <img src="https://cdn.simpleicons.org/gmail/FFFFFF" width="32" height="32" alt="Email" />
+  </a>
+</p>
+
+</div>
