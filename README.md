@@ -119,21 +119,38 @@ I'm always excited to learn new technologies, experiment with innovative ideas, 
 </p>
 
 </div>
-<!-- GitHub Activity -->
+<!-- GitHub Analytics -->
 <div align="center">
 
-## GITHUB ACTIVITY
+## GITHUB ANALYTICS
 
 <br/>
 
 <a href="https://github.com/Kuvendrahansithadevi">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kuvendrahansithadevi&show_icons=true&count_private=true&bg_color=080808&title_color=ffffff&icon_color=5B1025&text_color=ffffff&border_color=5B1025&border_radius=8&hide_border=false" alt="Kuvendrahansithadevi GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kuvendrahansithadevi&background=080808&border=5B1025&stroke=5B1025&ring=5B1025&fire=8C1D3A&currStreakLabel=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF&sideLabels=FFFFFF&dates=D1D5DB&border_radius=8" alt="Kuvendrahansithadevi GitHub Streak" />
 </a>
 
 <br/><br/>
 
+<table width="100%" align="center">
+  <tr>
+    <td width="50%" align="center" valign="middle">
+      <a href="https://github.com/Kuvendrahansithadevi">
+        <img src="https://github-readme-stats.vercel.app/api?username=Kuvendrahansithadevi&show_icons=true&count_private=true&bg_color=080808&title_color=FFFFFF&icon_color=8C1D3A&text_color=FFFFFF&border_color=5B1025&border_radius=8&hide_border=false" alt="Kuvendrahansithadevi GitHub Stats" width="100%" />
+      </a>
+    </td>
+    <td width="50%" align="center" valign="middle">
+      <a href="https://github.com/Kuvendrahansithadevi">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kuvendrahansithadevi&layout=compact&bg_color=080808&title_color=FFFFFF&text_color=FFFFFF&border_color=5B1025&border_radius=8&hide_border=false" alt="Kuvendrahansithadevi Top Languages" width="100%" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
 <a href="https://github.com/Kuvendrahansithadevi">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kuvendrahansithadevi&bg_color=080808&color=ffffff&line=5B1025&point=8C1D3A&area_color=5B1025&area=true&hide_border=false&border_color=5B1025&radius=8" alt="Kuvendrahansithadevi GitHub Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kuvendrahansithadevi&bg_color=080808&color=FFFFFF&line=5B1025&point=8C1D3A&area_color=5B1025&area=true&hide_border=false&border_color=5B1025&radius=8" alt="Kuvendrahansithadevi GitHub Activity Graph" width="100%" />
 </a>
 
 </div>
