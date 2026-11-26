@@ -1,6 +1,6 @@
 <!-- Top Banner -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Kuvendrahansithadevi/Kuvendrahansithadevi/main/assets/download.gif" alt="Hansitha Devi Kuvendra Banner" width="88%" />
+  <img src="https://raw.githubusercontent.com/Kuvendrahansithadevi/Kuvendrahansithadevi/main/assets/download (1).gif" alt="Hansitha Devi Kuvendra Banner" width="100%" />
 </div>
 
 <br/>
