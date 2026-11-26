@@ -227,3 +227,29 @@ I'm always excited to learn new technologies, experiment with innovative ideas, 
 </table>
 
 </div>
+<!-- Certifications -->
+<div align="center">
+
+## CERTIFICATIONS
+
+<br/>
+
+<a href="https://www.credly.com/badges/f9b33999-cd37-4b45-84b9-f33412f19151">
+  <img src="https://cdn.simpleicons.org/redhat/EE0000" width="44" height="44" alt="Red Hat" />
+  <br/>
+  <b>Red Hat Certified System Administrator (RHCSA)</b>
+  <br/>
+  <sub>Red Hat</sub>
+</a>
+
+<br/><br/>
+
+<a href="https://www.credly.com/earner/earned/badge/d8fb2ee6-e3f3-47f2-af4f-c32779403819">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" width="44" height="44" alt="Microsoft" />
+  <br/>
+  <b>Microsoft Office Specialist (MOS)</b>
+  <br/>
+  <sub>Microsoft</sub>
+</a>
+
+</div>
