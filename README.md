@@ -154,3 +154,15 @@ I'm always excited to learn new technologies, experiment with innovative ideas, 
 </a>
 
 </div>
+<!-- LeetCode Profile -->
+<div align="center">
+
+## LEETCODE PROFILE
+
+<br/>
+
+<a href="https://leetcode.com/u/Hansitha_07/">
+  <img src="https://leetcard.jacoblin.cool/Hansitha_07?theme=dark&font=Inter&ext=heatmap&border=2&radius=8&colors=080808,5B1025,FFFFFF,8C1D3A" alt="Hansitha_07 LeetCode Stats" width="75%" />
+</a>
+
+</div>
