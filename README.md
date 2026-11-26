@@ -26,6 +26,31 @@
 
 <br/>
 
+<!-- About Me -->
+<div align="center">
+
+## ABOUT ME
+
+</div>
+
+<br/>
+
+<img align="right" width="250" src="./assets/me.png" alt="Hansitha cartoon illustration" />
+
+### *Hi, I'm Hansitha!*
+
+I'm a **B.Tech Computer Science and Engineering (Data Science)** student with a strong interest in `Artificial Intelligence`, `Machine Learning`, and `Full Stack Development`.
+
+I enjoy turning ideas into practical solutions by combining creativity, logical thinking, and technology. I'm particularly interested in exploring AI-powered applications, building interactive web experiences, and developing projects that solve real-world problems.
+
+I'm always excited to learn new technologies, experiment with innovative ideas, and challenge myself to grow as a developer.
+
+> *"My goal is to build technology that makes a meaningful difference."*
+
+<br clear="right"/>
+
+<br/>
+
 <!-- Tech Stack -->
 <div align="center">
 
