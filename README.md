@@ -119,3 +119,21 @@ I'm always excited to learn new technologies, experiment with innovative ideas, 
 </p>
 
 </div>
+<!-- GitHub Activity -->
+<div align="center">
+
+## GITHUB ACTIVITY
+
+<br/>
+
+<a href="https://github.com/Kuvendrahansithadevi">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kuvendrahansithadevi&show_icons=true&count_private=true&bg_color=080808&title_color=ffffff&icon_color=5B1025&text_color=ffffff&border_color=5B1025&border_radius=8&hide_border=false" alt="Kuvendrahansithadevi GitHub Stats" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/Kuvendrahansithadevi">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kuvendrahansithadevi&bg_color=080808&color=ffffff&line=5B1025&point=8C1D3A&area_color=5B1025&area=true&hide_border=false&border_color=5B1025&radius=8" alt="Kuvendrahansithadevi GitHub Activity Graph" width="100%" />
+</a>
+
+</div>
