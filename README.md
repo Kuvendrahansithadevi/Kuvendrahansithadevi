@@ -166,3 +166,64 @@ I'm always excited to learn new technologies, experiment with innovative ideas, 
 </a>
 
 </div>
+<!-- Featured Projects -->
+<div align="center">
+
+## FEATURED PROJECTS
+
+<br/>
+
+<table width="100%">
+  <tr>
+    <td width="33.33%" align="left" valign="top">
+      <a href="https://lioralifelink.netlify.app/">
+        <img src="assets/life-link.png" width="100%" height="170" alt="LIFE LINK preview" />
+      </a>
+      <br/><br/>
+      <a href="https://lioralifelink.netlify.app/"><b>LIFE LINK</b></a><br/>
+      <sub><b>Multilingual Emergency Healthcare &amp; Triage Platform</b></sub>
+      <p>
+        <sub>
+          LLM-powered triage, doctor chat &amp; hospital directory, plus emergency alerts and blood donor notifications.
+        </sub>
+      </p>
+      <a href="https://lioralifelink.netlify.app/" title="Live Demo">
+        <img src="https://img.shields.io/badge/Live%20Demo-5B1025?style=flat-square&logo=vercel&logoColor=FFFFFF" alt="Live Demo" />
+      </a>
+    </td>
+    <td width="33.33%" align="left" valign="top">
+      <a href="https://github.com/Kuvendrahansithadevi/Planit">
+        <img src="assets/planit.png" width="100%" height="170" alt="Planit preview" />
+      </a>
+      <br/><br/>
+      <a href="https://github.com/Kuvendrahansithadevi/Planit"><b>Planit</b></a><br/>
+      <sub><b>MERN Stack Productivity Dashboard</b></sub>
+      <p>
+        <sub>
+          Interactive full-stack web application for task and productivity management.
+        </sub>
+      </p>
+      <a href="https://github.com/Kuvendrahansithadevi/Planit" title="GitHub Repository">
+        <img src="https://img.shields.io/badge/GitHub-5B1025?style=flat-square&logo=github&logoColor=FFFFFF" alt="GitHub" />
+      </a>
+    </td>
+    <td width="33.33%" align="left" valign="top">
+      <a href="https://github.com/Kuvendrahansithadevi/BLOOD_BANK_MANAGEMENT_SYSTEM">
+        <img src="assets/bbms.png" width="100%" height="170" alt="Blood Bank Management System preview" />
+      </a>
+      <br/><br/>
+      <a href="https://github.com/Kuvendrahansithadevi/BLOOD_BANK_MANAGEMENT_SYSTEM"><b>Blood Bank Management System</b></a><br/>
+      <sub><b>Java Swing + MySQL</b></sub>
+      <p>
+        <sub>
+          Team-built blood bank management application using JDBC for database connectivity.
+        </sub>
+      </p>
+      <a href="https://github.com/Kuvendrahansithadevi/BLOOD_BANK_MANAGEMENT_SYSTEM" title="GitHub Repository">
+        <img src="https://img.shields.io/badge/GitHub-5B1025?style=flat-square&logo=github&logoColor=FFFFFF" alt="GitHub" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
